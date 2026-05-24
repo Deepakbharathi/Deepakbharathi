@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Deepak Bharathi
 
-<!--
-**Deepakbharathi/Deepakbharathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Network Engineer focused on CCNA, Linux, Python, and Network Automation.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* CCNA fundamentals
+* Python scripting
+* Linux basics
+* Git & GitHub
+
+## Goals
+
+* Build useful networking tools
+* Learn automation
+* Create real-world projects
+
+## Projects that i aim to make this month 
+
+* Ping Monitor Tool
+* Port Scanner
+* Network Information Tool
